@@ -10,4 +10,6 @@ Notes
   - No sounds. Originally there was gonna be music but I decided not to as it wasn't really a game. Just a little tinkering project.
   - Have fun :)
   
-  
+Engine: GameMaker Studio Version 1.4.999
+
+(if you do make something of this atleast like. Credit me or something idk)
